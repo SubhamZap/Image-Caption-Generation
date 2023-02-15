@@ -10,4 +10,7 @@ We need a model which might take a image and with some computation magic it prov
 
 If you know a bit about deep learning models, it take images in the form of pixels and return output depending on the use-cases. Here, we need both images and texts as input for the model which will provide output with its ML magic.
 
-## 3. How the machine will understand features of the image and the text xorresponding to the features?
+## 3. How the model/machine will understand features of the image and the text corresponding to the features?
+For the above problem we need a pre-trained model which can provide us the feature vector of all images. In our problem statement, we used VGG16 model to extract feature embedding of a image but there are other models which can do the task (like DenseNet201 or ResNet50 etc). It might take few minutes depending on the computational power of your device. We have saved our feature vector so that we don't spend time again-and-again training it.
+The caption corresponding to its images are slso saved.
+
