@@ -1,6 +1,6 @@
 # Image-Caption-Generation
 
-![Image with Captions](https://user-images.githubusercontent.com/96906297/218967281-ba459592-58a2-4568-a763-dfc01121f0cc.png)
+![Image with Captions](https://user-images.githubusercontent.com/96906297/218967741-2323b455-d1fe-44d4-961f-3547498d459e.png)
 
 
 ## 1. Dataset
