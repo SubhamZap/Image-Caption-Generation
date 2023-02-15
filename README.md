@@ -1,5 +1,8 @@
 # Image-Caption-Generation
 
+![Image with Captions](https://user-images.githubusercontent.com/96906297/218967281-ba459592-58a2-4568-a763-dfc01121f0cc.png)
+
+
 ## 1. Dataset
 There are around 8000 images and captions corresponding to the images. Each image have multiple captions.
 
